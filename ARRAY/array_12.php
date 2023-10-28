@@ -3,7 +3,7 @@
 
 
 $personal_detail = array(
-    "name"=>"Devan",
+    "name"=>"Deven",
     "age"=>"22",
     "email"=>"devanpant0@gmail.com");
 print_r($personal_detail);
