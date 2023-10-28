@@ -1,4 +1,4 @@
 <?php
-$text= "AVANI";
+$text= "DEVEN";
  echo strlen($text);
 ?>
